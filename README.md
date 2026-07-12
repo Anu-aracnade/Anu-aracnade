@@ -40,7 +40,8 @@
 > More exciting projects coming soon 🚀
 
 ---
-
+<div align="center">
+  
 ### ⭐ Code • Learn • Build • Repeat
 
 </div>
