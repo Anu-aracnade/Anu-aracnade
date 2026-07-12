@@ -4,7 +4,7 @@
 
 ### 💻 CSE Student • Web Developer • AI & Cybersecurity Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Projects.;Learning+Every+Day.;Future+Software+Engineer.;Always+Curious.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Projects.;Learning+Every+Day.;Aspiring+Software+Engineer.;Always+Curious.)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,62 +42,26 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### 🌌 Activity Skyline
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Anu-aracnade&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Anu-aracnade&show_icons=true&theme=default&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Anu-aracnade&show_icons=true"
-  />
-</picture>
+<p align="center">
+  <img src="https://vercel.app" alt="Anu's 3D Activity Skyline" width="100%" />
+  <img src="https://vercel.app" alt="Anu's 3D Activity Skyline" width="100%" />
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Anu-aracnade&theme=github-dark-blue&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=Anu-aracnade&theme=default&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=Anu-aracnade"
-  />
-</picture>
+<p align="center">
+  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
+  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
+</p>
 
-<br><br>
+### 📊 Language Domain
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-aracnade&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-aracnade&layout=compact&theme=default&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-aracnade&layout=compact"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
+  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
+</p>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Anu-aracnade&style=for-the-badge)
 
 ### ⭐ Code • Learn • Build • Repeat
 
