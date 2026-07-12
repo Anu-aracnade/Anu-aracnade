@@ -33,24 +33,11 @@
 ## 📌 Featured Projects
 
 - 🌐 **Personal Portfolio Website**
+- 🧠 **Mind-Anchor Student focus-friendly app**
 - 🌦 **IoT Weather Monitoring System**
 - 🏡 **Community Documentation Project**
 
 > More exciting projects coming soon 🚀
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<!-- General Stats Card Layout -->
-![Anu's GitHub Stats](https://vercel.app)
-![Anu's GitHub Stats](https://vercel.app)
-
-<!-- Top Languages Card Layout -->
-![Anu's Top Languages](https://vercel.app)
-![Anu's Top Languages](https://vercel.app)
 
 ---
 
