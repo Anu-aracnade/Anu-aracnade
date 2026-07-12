@@ -42,24 +42,15 @@
 
 ## 📊 GitHub Stats
 
-### 🌌 Activity Skyline
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="Anu's 3D Activity Skyline" width="100%" />
-  <img src="https://vercel.app" alt="Anu's 3D Activity Skyline" width="100%" />
-</p>
+<!-- General Stats Card Layout -->
+![Anu's GitHub Stats](https://vercel.app)
+![Anu's GitHub Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
-  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
-</p>
-
-### 📊 Language Domain
-
-<p align="center">
-  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
-  <img src="https://vercel.app" width="45%" alt="Language Distribution" />
-</p>
+<!-- Top Languages Card Layout -->
+![Anu's Top Languages](https://vercel.app)
+![Anu's Top Languages](https://vercel.app)
 
 ---
 
