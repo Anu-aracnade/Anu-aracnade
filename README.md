@@ -13,9 +13,11 @@
 ## 🚀 About Me
 
 - 🎓 B.E. CSE @ Chandigarh University
-- 🌱 Learning **JavaScript, SQL & DSA**
-- 🤖 Interested in **AI • Cybersecurity • Cloud**
+- 🌱 Learning **JavaScript, Linux, SQL & DSA**
+- 🤖 Interested in **AI • Cybersecurity • Web-Dev**
+- 🖌️ Learning **Canva** & also improving my **video-editing skills**
 - 🌏 Learning **Japanese**
+- 🎵 Having a bit taste in music, so learning to play **guitar**
 - ⚡ Building projects and growing one commit at a time
 
 ---
