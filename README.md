@@ -16,7 +16,7 @@
 - 🌱 Learning **JavaScript, Linux, SQL & DSA**
 - 🤖 Interested in **AI • Cybersecurity • Web-Dev**
 - 🖌️ Learning **Canva** & also improving my **video-editing skills**
-- 🌏 Learning **Japanese**
+- 🌏 Learning **Japanese** & **Spanish** (Language learning hobbies)
 - 🎵 Having a bit taste in music, so learning to play **guitar**
 - ⚡ Building projects and growing one commit at a time
 
