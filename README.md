@@ -36,7 +36,7 @@
 
 - 🌐 **Personal Portfolio Website**
 - 🧠 **Mind-Anchor Student focus-friendly app**
-- 🌦 **IoT Weather Monitoring System**
+- 🌦 **IoT Solar Power Monitoring System and Fault Detection**
 - 🏡 **Community Documentation Project**
 
 > More exciting projects coming soon 🚀
